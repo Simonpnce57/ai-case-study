@@ -20,7 +20,7 @@
 ## Landscape
 
 * **What field is the company in?**: Biotechnology and gene editing.
-* **What have been the major trends and innovations of this field over the last 5-10 years?**: The major trend has been the development and refinement of CRISPR as a precise gene-editing tool. Also, the incorporation of ML tools to analyze large sets of Genome data, this information can then be applied to tasks such as the creation of totally new sequences. 
+* **What have been the major trends and innovations of this field over the last 5-10 years?**: The major trend has been the development and refinement of CRISPR as a precise gene-editing tool. Also, the incorporation of ML tools to analyze large sets of Genome data, this information can then be applied to tasks such as the creation of totally new sequences. Scientist look for similaties between ML and the natural way nature will edit genomes.
 * **What are the other major companies in this field?**: Competitors include Editas Medicine, Intellia Therapeutics, and others.
 
 ## Results
@@ -37,7 +37,7 @@
 * **Why do you think that offering this product or service would benefit the company?**: Personalized medicine is the future of healthcare, and being at the forefront could position the company as a market leader.
 * **What technologies would this additional product or service utilize?**: Scientists have used artificial intelligence (AI) to create new CRISPR gene-editing tools. The AI algorithms were trained on vast amounts of biological data, allowing researchers to design new CRISPR proteins and RNA molecules. The resulting gene editors (CRISPR-Cas9, ProGen, OpenCRISPR-1 and EVO) were able to precisely cut their intended targets in the genome, and some of them showed promise as efficient and precise gene-editing tools. The work has the potential to accelerate the development of new gene therapies and other medical treatments. The great majority of AI systems, such as CRISPR-Cas9, show much potential but are not peer-reviewed.
 
-* **Why are these technologies appropriate for your solution?**: AI can enhance the precision and efficacy of CRISPR gene editing, leading to better patient outcomes and broader applicability of therapies.\
+* **Why are these technologies appropriate for your solution?**: AI can enhance the precision and efficacy of CRISPR gene editing, leading to better patient outcomes and broader applicability of therapies. There could be other uses of gene editiing, poeple would be able to design the way thier offspring can look like and avoid hederitary illnesses. 
 
 ## Sources:
 
