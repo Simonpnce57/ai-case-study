@@ -1,5 +1,5 @@
 # ai-case-study
-Case study for Bootcamp class 
+
 # CRISPR and AI: Revolutionizing Gene Editing
 
 ## Overview and Origin
