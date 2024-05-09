@@ -39,9 +39,9 @@
 
 * **Why are these technologies appropriate for your solution?**: AI can enhance the precision and efficacy of CRISPR gene editing, leading to better patient outcomes and broader applicability of therapies.\
 
-*Source: Conversation with Bing, 5/8/2024
-*CRISPR Therapeutics - Wikipedia. https://en.wikipedia.org/wiki/CRISPR_Therapeutics.
-*CRISPR Therapeutics - Funding, Financials, Valuation & Investors. https://www.crunchbase.com/organization/crispr-therapeutics/company_financials.
+* **Source: Conversation with Bing, 5/8/2024
+* **CRISPR Therapeutics - Wikipedia. https://en.wikipedia.org/wiki/CRISPR_Therapeutics.
+* **CRISPR Therapeutics - Funding, Financials, Valuation & Investors. https://www.crunchbase.com/organization/crispr-therapeutics/company_financials.
 CRISPR Therapeutics AG - Company Profile - GlobalData. https://www.globaldata.com/company-profile/crispr-therapeutics-ag/.
 Global CRISPR Market Size, Share, Trends & Forecast by 2034 | FMI. https://www.futuremarketinsights.com/reports/crispr-market.
 CRISPR Therapeutics Highlights Strategic Priorities and 2024 Outlook .... https://ir.crisprtx.com/news-releases/news-release-details/crispr-therapeutics-highlights-strategic-priorities-and-2024.
