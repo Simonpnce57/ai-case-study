@@ -5,30 +5,30 @@
 ## Overview and Origin
 
 * **Name of company**: CRISPR Therapeutics AG
-* **When was the company incorporated?**: 2013¹⁷
-* **Who are the founders of the company?**: Emmanuelle Charpentier, Shaun Foy, and Rodger Novak¹⁷
-* **How did the idea for the company (or project) come about?**: The idea stemmed from the discovery of CRISPR/Cas9 as a gene-editing tool by Emmanuelle Charpentier and others, which has the potential to treat genetic diseases¹⁷.
-* **How is the company funded? How much funding have they received?**: CRISPR Therapeutics has raised a total of $407M in funding over 6 rounds³.
+* **When was the company incorporated?**: 2013
+* **Who are the founders of the company?**: Emmanuelle Charpentier, Shaun Foy, and Rodger Novak
+* **How did the idea for the company (or project) come about?**: The idea stemmed from the discovery of CRISPR/Cas9 as a gene-editing tool by Emmanuelle Charpentier and others, which has the potential to treat genetic diseases.
+* **How is the company funded? How much funding have they received?**: CRISPR Therapeutics has raised a total of $407M in funding over 6 rounds.
 
 ## Business Activities
 
-* **What specific problem is the company or project trying to solve?**: CRISPR Therapeutics aims to develop gene-based medicines for serious diseases using CRISPR/Cas9 gene-editing technology⁸.
-* **Who is the company's intended customer? Is there any information about the market size of this set of customers?**: Their intended customers are patients with genetic disorders, with a market size that could reach $17.8 billion by 2034²³.
-* **What solution does this company offer that their competitors do not or cannot offer?**: CRISPR Therapeutics offers the first-ever approved CRISPR-based gene-editing therapy³⁵.
-* **Which technologies are they currently using, and how are they implementing them?**: They use CRISPR/Cas9 gene-editing technology and have developed a platform for translating this into therapies⁸.
+* **What specific problem is the company or project trying to solve?**: CRISPR Therapeutics aims to develop gene-based medicines for serious diseases using CRISPR/Cas9 gene-editing technology.
+* **Who is the company's intended customer? Is there any information about the market size of this set of customers?**: Their intended customers are patients with genetic disorders, with a market size that could reach $17.8 billion by 2034.
+* **What solution does this company offer that their competitors do not or cannot offer?**: CRISPR Therapeutics offers the first-ever approved CRISPR-based gene-editing therapy.
+* **Which technologies are they currently using, and how are they implementing them?**: They use CRISPR/Cas9 gene-editing technology and have developed a platform for translating this into therapies.
 
 ## Landscape
 
-* **What field is the company in?**: Biotechnology and gene editing⁸.
-* **What have been the major trends and innovations of this field over the last 5-10 years?**: The major trend has been the development and refinement of CRISPR as a precise gene-editing tool⁶. Also, the incorporation of ML tools to analyze large sets of Genome data, this information can then be applied to tasks such as the creation of totally new sequences. 
-* **What are the other major companies in this field?**: Competitors include Editas Medicine, Intellia Therapeutics, and others³².
+* **What field is the company in?**: Biotechnology and gene editing.
+* **What have been the major trends and innovations of this field over the last 5-10 years?**: The major trend has been the development and refinement of CRISPR as a precise gene-editing tool. Also, the incorporation of ML tools to analyze large sets of Genome data, this information can then be applied to tasks such as the creation of totally new sequences. 
+* **What are the other major companies in this field?**: Competitors include Editas Medicine, Intellia Therapeutics, and others.
 
 ## Results
 
-* **What has been the business impact of this company so far?**: CRISPR Therapeutics has made significant strides in gene therapy, with the first-ever approval of a CRISPR-based therapy³⁵.
-* **What are some of the core metrics that companies in this field use to measure success?**: Success metrics include the number of people treated, the efficacy of treatments, and the advancement of clinical trials¹¹.
-* **How is your company performing based on these metrics?**: CRISPR Therapeutics has successfully brought a CRISPR-based therapy to market and continues to advance its clinical trials³⁵.
-* **How is your company performing relative to competitors in the same field?**: CRISPR Therapeutics is among the leaders in the field, with one of the first approved therapies³⁵.  The second describes a new generation of all-star CRISPR-Cas9 proteins the team evolved that are capable of targeting a much larger fraction of pathogenic mutations, including the one responsible for sickle cell anemia, which was prohibitively difficult to access with previous CRISPR methods.
+* **What has been the business impact of this company so far?**: CRISPR Therapeutics has made significant strides in gene therapy, with the first-ever approval of a CRISPR-based therapy.
+* **What are some of the core metrics that companies in this field use to measure success?**: Success metrics include the number of people treated, the efficacy of treatments, and the advancement of clinical trials.
+* **How is your company performing based on these metrics?**: CRISPR Therapeutics has successfully brought a CRISPR-based therapy to market and continues to advance its clinical trials.
+* **How is your company performing relative to competitors in the same field?**: CRISPR Therapeutics is among the leaders in the field, with one of the first approved therapies.  The second describes a new generation of all-star CRISPR-Cas9 proteins the team evolved that are capable of targeting a much larger fraction of pathogenic mutations, including the one responsible for sickle cell anemia, which was prohibitively difficult to access with previous CRISPR methods.
 
 
 ## Recommendations
@@ -39,9 +39,9 @@
 
 * **Why are these technologies appropriate for your solution?**: AI can enhance the precision and efficacy of CRISPR gene editing, leading to better patient outcomes and broader applicability of therapies.\
 
-Source: Conversation with Bing, 5/8/2024
-CRISPR Therapeutics - Wikipedia. https://en.wikipedia.org/wiki/CRISPR_Therapeutics.
-CRISPR Therapeutics - Funding, Financials, Valuation & Investors. https://www.crunchbase.com/organization/crispr-therapeutics/company_financials.
+*Source: Conversation with Bing, 5/8/2024
+*CRISPR Therapeutics - Wikipedia. https://en.wikipedia.org/wiki/CRISPR_Therapeutics.
+*CRISPR Therapeutics - Funding, Financials, Valuation & Investors. https://www.crunchbase.com/organization/crispr-therapeutics/company_financials.
 CRISPR Therapeutics AG - Company Profile - GlobalData. https://www.globaldata.com/company-profile/crispr-therapeutics-ag/.
 Global CRISPR Market Size, Share, Trends & Forecast by 2034 | FMI. https://www.futuremarketinsights.com/reports/crispr-market.
 CRISPR Therapeutics Highlights Strategic Priorities and 2024 Outlook .... https://ir.crisprtx.com/news-releases/news-release-details/crispr-therapeutics-highlights-strategic-priorities-and-2024.
@@ -72,10 +72,10 @@ CRISPR Gene Editing Market Size, Share and Forecast to 2031. https://straitsrese
 ‘ChatGPT for CRISPR’ creates new gene-editing tools - Nature. https://www.nature.com/articles/d41586-024-01243-w.
 ‘ChatGPT for CRISPR’ Creates New Gene-Editing Tools. https://bakarlabs.berkeley.edu/chatgpt-for-crispr-creates-new-gene-editing-tools/.
 CRISPR-IL Consortium Hopes AI Can Improve Accuracy ... - GenomeWeb. https://www.genomeweb.com/informatics/crispr-il-consortium-hopes-ai-can-improve-accuracy-efficiency-gene-editing.
-(33) CRISPR Therapeutics (CRSP) Competitors and Alternatives 2024 - MarketBeat. https://www.marketbeat.com/stocks/NASDAQ/CRSP/competitors-and-alternatives/.
-(34) Top CRISPR Therapeutics Competitors and Alternatives - Craft. https://craft.co/crispr-therapeutics/competitors.
-(35) How CRISPR technology is advancing — Harvard Gazette. https://news.harvard.edu/gazette/story/2020/02/how-crispr-technology-is-advancing/.
-(36) CRISPR: How Businesses Can Use This Cutting-Edge Technology. https://www.smartbusinessdaily.com/crispr-cutting-edge-technology/.
-(37) The impact of CRISPR-Cas | Microbiology Society. https://microbiologysociety.org/our-work/75th-showcasing-why-microbiology-matters/exploring-microbiology-and-genetics/the-impact-of-crispr-cas.html.
-(38) undefined. https://www.crisprtx.com.
-(39) linkedin.com. https://www.linkedin.com/company/crispr-therapeutics.
+CRISPR Therapeutics (CRSP) Competitors and Alternatives 2024 - MarketBeat. https://www.marketbeat.com/stocks/NASDAQ/CRSP/competitors-and-alternatives/.
+Top CRISPR Therapeutics Competitors and Alternatives - Craft. https://craft.co/crispr-therapeutics/competitors.
+How CRISPR technology is advancing — Harvard Gazette. https://news.harvard.edu/gazette/story/2020/02/how-crispr-technology-is-advancing/.
+CRISPR: How Businesses Can Use This Cutting-Edge Technology. https://www.smartbusinessdaily.com/crispr-cutting-edge-technology/.
+The impact of CRISPR-Cas | Microbiology Society. https://microbiologysociety.org/our-work/75th-showcasing-why-microbiology-matters/exploring-microbiology-and-genetics/the-impact-of-crispr-cas.html.
+undefined. https://www.crisprtx.com.
+linkedin.com. https://www.linkedin.com/company/crispr-therapeutics.
