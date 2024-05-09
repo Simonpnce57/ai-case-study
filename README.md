@@ -1,4 +1,4 @@
-# ai-case-study
+# ai-case-study by Simon Ponce Potes 
 
 # CRISPR and AI: Revolutionizing Gene Editing
 
